@@ -1,0 +1,15 @@
+*.log
+*.tmp
+*.zip
+*.vdi
+*.vmdk
+*.iso
+
+.env
+
+wazuh-passwords.txt
+*.pem
+*.key
+*.crt
+
+__pycache__/

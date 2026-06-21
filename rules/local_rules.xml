@@ -1,0 +1,8 @@
+<group name="local">
+
+<rule id="100100" level="5">
+    <match>Failed password</match>
+    <description>SSH brute force attempt</description>
+</rule>
+
+</group>
