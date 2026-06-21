@@ -20,6 +20,8 @@ A Security Operations Center lab built using Wazuh for log analysis, monitoring,
 # Lab Architecture
 
 Host Machine
+
+
 ↓
 
 VirtualBox
