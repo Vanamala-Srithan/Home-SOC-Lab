@@ -71,7 +71,7 @@ Install Wazuh
 
 Access Dashboard
 
-https://SERVER-IP
+https://192.168.29.50
 
 
 
