@@ -95,7 +95,6 @@ Home-SOC-Lab/
 | HOMESOC-001 | Wazuh Dashboard Inaccessible |    ✅   |
 | HOMESOC-002 | SSH Brute Force Detection    |    ✅   |
 
-<<<<<<< HEAD
 ### Step 3
 
 Access Dashboard
@@ -114,9 +113,7 @@ Register Agent
 
 Generate Events
 
-=======
----
->>>>>>> 1ef4376 (docs: add SSH brute force documentation and incident reports)
+
 
 # Skills Demonstrated
 
